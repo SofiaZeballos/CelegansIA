@@ -1,1 +1,1 @@
-# CelegansIA
+# CelegansAI
